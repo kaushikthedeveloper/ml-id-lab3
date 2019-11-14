@@ -18,6 +18,7 @@ containers = {'us-west-2': '174872318107.dkr.ecr.us-west-2.amazonaws.com/factori
              'ap-northeast-2': '835164637446.dkr.ecr.ap-northeast-2.amazonaws.com/factorization-machines:latest',
              'ap-southeast-2': '712309505854.dkr.ecr.ap-southeast-2.amazonaws.com/factorization-machines:latest',
              'eu-central-1': '664544806723.dkr.ecr.eu-central-1.amazonaws.com/factorization-machines:latest',
+              'ap-south-1': '991648021394.dkr.ecr.ap-south-1.amazonaws.com/factorization-machines:latest',
              'eu-west-1': '438346466558.dkr.ecr.eu-west-1.amazonaws.com/factorization-machines:latest'}
 
 start = time.time()
